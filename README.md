@@ -139,3 +139,13 @@ COMANDO_AQUI:
     - "&eVocê executou um comando de exemplo."
 ```
 
+
+
+### ➥ A Special thanks for this guys!
+... and a thanks for all pepls who are or believe in this project, 
+below some names that helped with ideas, codes corrections.
+
+@SrEdu0202, @iDimaBR, @ferraribr, @Kepe, @BadNotice_
+
+##  Bye!
+![ferraribr](https://minotar.net/armor/bust/ferraribr_/190.png)![idimabr](https://minotar.net/armor/bust/Idimabr/190.png)
